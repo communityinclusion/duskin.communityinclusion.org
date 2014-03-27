@@ -1,32 +1,29 @@
-jekyll-foundation-5-starter
-===========================
+# Foundation libsass template
 
-Quickly start a Jekyll website powerd by foundation/sass using github pages!
-<a href="http://daigofuji.github.io/jekyll-foundation-5-starter/">See the live demo</a>
-Created by Daigo Fujiwara.
+This is a template to start your own project that uses Grunt and libsass!
 
-Here are the steps:
+## Requirements
 
-1. edit <samp>_config.yml<samp> for basic page information.
-2. edit <samp>scss _settings.scss</samp>
+You'll need to have the following items installed before continuing.
 
+  * [Node.js](http://nodejs.org): Use the installer provided on the NodeJS website.
+  * [Grunt](http://gruntjs.com/): Run `[sudo] npm install -g grunt-cli`
+  * [Bower](http://bower.io): Run `[sudo] npm install -g bower`
 
-### Useful command:
+## Quickstart
 
-Run the compass by doing 
+```bash
+git clone git@github.com:zurb/foundation-libsass-template.git
+npm install && bower install
+```
 
-    compass watch
-    
-<a href="http://daigo.org/2013/11/installing-npm-on-mavericks-macbook-pro/">This blog post</a> may be useful if you are like me and running Mac OS X.
+While you're working on your project, run:
 
-If you want to make sure foundation is up to date, try 
+`grunt`
 
-    foundation update
-    
-(requires bower)
+And you're set!
 
-To run jekyll locally, run 
+## Directory Strucutre
 
-    bundle exec jekyll serve --watch
-
-<a href="https://help.github.com/articles/using-jekyll-with-pages">See this</a>. Run '''bundle update''' to 
+  * `scss/_settings.scss`: Foundation configuration settings go in here
+  * `scss/app.scss`: Application styles go here

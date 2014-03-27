@@ -1,7 +1,3 @@
-name : my site
-brand : my site
-description : description of my site
-keyword:  
-url : http://example.com
-email : email@example.com
-author: Daigo Fujiwara
+name: Your New Jekyll Site
+markdown: redcarpet
+pygments: true
