@@ -38,3 +38,14 @@
 //   "foundation/components/type",
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
+
+body{background-color: #ccdd4d;
+ background: url(/images/bhf_g.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;}
+
+  .contain {background-color:white; padding:2em; opacity:0.6;  }
+
+  .left{padding-right:3em;}
