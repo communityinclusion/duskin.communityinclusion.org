@@ -39,13 +39,22 @@
 //   "foundation/components/offcanvas",
 //   "foundation/components/visibility";
 
-body{background-color: #ccdd4d;
- background: url(http://communityinclusion.github.io/duskin.communityinclusion.org/images/bhf_o.jpg) no-repeat center center fixed;
+body{background-color: #d97941;
+ //background: url(http://communityinclusion.github.io/duskin.communityinclusion.org/images/bhf_o.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;}
 
-  .contain {background-color:white; padding:2em; opacity:0.6;  }
+  .contain {background-color:white; margin-top:1em; padding:2em; border:.6em solid #ccdd4d;  }
+
+  @mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+      -ms-border-radius: $radius;
+          border-radius: $radius;
+}
+
+.box { @include border-radius(20px); }
 
   .left{padding-right:3em;}
