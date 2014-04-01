@@ -7,7 +7,7 @@ title: Welcome to the Duskin Disability Leadership Program at UMass Boston!
 <div class="row">
 <div class="small-12 columns">
 
-<img src="/images/ddlpb.png" class="left" alt="Duskin Disability Leadership Program at UMass Boston logo" />
+<img src="{{ site.baseurl }}/images/ddlpb.png" class="left" alt="Duskin Disability Leadership Program at UMass Boston logo" />
 
 <h1>{{page.title}}</h1>
 <br /><br />
