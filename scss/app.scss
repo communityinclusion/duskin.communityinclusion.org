@@ -46,7 +46,11 @@ body{background-color: #d97941;
   -o-background-size: cover;
   background-size: cover;}
 
+p {line-height:1.3em;}
+p.indent {margin-left:2em; margin-top:-1em; padding-top:-1em;}
+
   .contain {background-color:white; margin-top:1em; padding:2em; border:.6em solid #ccdd4d;  }
+  .callout {background-color:white; margin-top:1em; padding:2em; border:.3em solid #4AAADC;}
 
   @mixin border-radius($radius) {
   -webkit-border-radius: $radius;
@@ -56,5 +60,7 @@ body{background-color: #d97941;
 }
 
 .box { @include border-radius(20px); }
+
+
 
   .left{padding-right:3em;}
