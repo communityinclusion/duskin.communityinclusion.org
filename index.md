@@ -17,17 +17,26 @@ title: Welcome to the Duskin Disability Leadership Program at UMass Boston!
 
 <p>The Duskin Ainowa Foundation has been in existence for over 30 years, and launched this Boston-based program in 2014. Since its launch, the foundation has provided individual fellowships funding Japanese people with disabilities to go abroad to gain disability leadership and advocacy skills. Starting in 2014, in addition to those individual fellowships, the program also began using a new group or cohort model to further participants’ disability leadership and advocacy training.</p>
 
-<p>For more information about the Duskin program in Boston, please contact Dr. Heike Boeltzig-Brown at <a href="mailto:heike.boeltzig@umb.edu">heike.boeltzig@umb.edu.</a></p>
+
 <hr />
 <h3>Testimonials</h3>
 <p>"The Duskin Disability Leadership Program provides an opportunity to learn from the world’s most respected disability leaders. This new chapter in Boston complements our existing programs, and brings our international advocacy training to the next level."</p>
-<p class="indent"><em>-Norimichi Yamamoto, Executive Director / Secretary General, Duskin Ainowa Foundation</em></p> 
+<p class="indent"><em>-Norimichi Yamamoto, Executive Director / Secretary General, Duskin Ainowa Foundation</em></p>
 
 <p>"We founded this program 30 years ago to support young Japanese leaders with disabilities. I am proud to see the program continue to grow and thrive with this new cohort model in Boston."</p>
 <p class="indent"><em>-Fumihiro Taniai, Formerly Executive Director / Secretary General, Duskin Ainowa Foundation</em> </p>
 
 <p>"This program is unique in its comprehensive nature. When our trainees return to Japan, they will be ready to make an impact on the disability movement here."</p>
 <p class="indent"><em>-Ryosuke Matsui, Professor Emeritus at Hosei University, and the National Secretary for Japan for Rehabilitation International</em></p>
+
+<p> “The UMass Boston community is looking forward to learning first-hand from Japan’s next generation of disability leaders.”</p>
+<p class="indent"><em>-Provost Winston Langley, UMass Boston	</p></em>
+
+<p>“The Duskin Ainowa Foundation is an international force in disability leadership training. This program provides trainees with resources that are essential for any leader to have in his or her toolbox.”</p>
+<p class="indent"><em>-Dean William E. Kiernan, UMass Boston School for Global Inclusion and Social Development</em> </p>
+
+
+
 
 </div>
 <div class="small-6 columns callout box">
