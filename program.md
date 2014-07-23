@@ -69,14 +69,7 @@ English As Second Language (ESL) Training program at the College of Advancing an
 **Program Participants**
 Maximum of 4 trainees
 
-**Meet Our Duskin Trainees**
-XX We will list their names with photos, short bios, and a brief description of their training topics, goals and internship sites. We will share photos from the pre-training and program launch event.
-Throughout the program, we will share information about the formal and informal / social activities that trainees engage in as well as photos from those activities. At the end of their program, will publish their final reports (edited versions) including photos as well as photos from the award ceremony / program graduation.
+<a href="/trainees.html">Meet Our Duskin Trainees</a>
 
-**Information and Resources for Current Trainees**
-XX We are currently developing a list of Japanese resources in Boston, a program handbook, and internship guidelines and will provide links to those documents here.
-
-**Information and Resources for Internship Sites**
-XX We are currently developing a list of information and resources for internship sites, internship site recruitment materials, as well as internship guidelines and will provide links to those documents here.
 
 If you are interested in becoming an internship site for the Duskin program, please contact Dr. Heike Boeltzig-Brown at [heike.boeltzig@umb.edu](mailto:heike.boeltzig@umb.edu)
