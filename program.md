@@ -60,16 +60,48 @@ Here are some examples of agencies, organizations, and programs that we are part
 If you are interested in becoming a program partner or an internship site for the Duskin program, please contact Miwa Tanabe at [miwa.tanabe@umb.edu](mailto:miwa.tanabe@umb.edu)
 
 
-**Program / Training Partners**
-English As Second Language (ESL) Training program at the College of Advancing and Professional Studies at UMass Boston
-
-**Program Duration**
+**Program Duration**  
 5 months (starting in August and ending in December). A program timeline is available here.
 
-**Program Participants**
+**Program Participants**  
 Maximum of 4 trainees
 
-<a href="/trainees.html">Meet Our Duskin Trainees</a>
-
-
-If you are interested in becoming an internship site for the Duskin program, please contact Dr. Heike Boeltzig-Brown at [heike.boeltzig@umb.edu](mailto:heike.boeltzig@umb.edu)
+###Program Timeline
+<table>
+<tr>
+<td>February 22</td>	<td>Candidate interviews & selection of final program participants</td>
+</tr>
+<tr>
+<td>March 29-30</td>	<td>Orientation / pre-training at the Duskin Ainowa Foundation headquarters in Osaka</td>
+</tr>
+<tr>
+<td>May 29</td>	<td>Farewell party in Osaka</td>
+</tr>
+<tr>
+<td>July 30</td> <td>Departure for Boston </td>
+</tr>
+<tr>
+<td>July 30</td><td>Arrival in Boston</td>
+</tr>
+<tr>
+<td>July 31 – August 29</td>	<td>Orientation to the Duskin Program & student life in Boston, individual / small group English-language tutoring, weekly group supervision seminars   </td>
+</tr>
+<tr>
+<td>September 2 – December 12</td> <td>	English-language and disability studies courses, individual internships, weekly group supervision seminars </td>
+</tr>
+<tr>
+<td>October 31</td>	<td>Trainee progress report due</td>
+</tr>
+<tr>
+<td>November 14</td> 	<td>Draft of trainee final report due</td>
+</tr>
+<tr>
+<td>TBD</td>	<Td>Award ceremony: final presentations and certification of program completion</Td>
+</tr>
+<tr>
+<Td>December 19</Td>		<td>Trainee final report due</td>
+</tr>
+<tr>
+<td>December 21</td><td>Departure for Japan</td>
+</tr>
+</table>

@@ -37,7 +37,7 @@ Candidate interviews. The interview has four parts:
 
 1)	A 15-minute individual interview in Japanese with members of the Program Executive Committee (and ICI program staff) addressing the applicant’s motivation to apply for this program, potential to become a disability leader, and proposed training topic.
 
-2)	A 10- to 15-minute written test in which applicants are asked to respond to two questions in English. This is to test applicants’ English writing skills.
+2)	 A 10- to 15-minute written test in which applicants are asked to respond in English.This is to test applicants’ English writing skills.
 
 3)	A 15-minute interview in English with Duskin Ainowa Foundation staff and ICI program staff to test applicants’ basic conversational skills. Deaf applicants will be tested on their basic English language reading and writing skills, but not on their conversational skills.
 

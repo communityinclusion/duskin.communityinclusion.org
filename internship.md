@@ -3,9 +3,6 @@ title: Internships
 layout: post
 ---
 
-<blockquote>The UMass Boston community is looking forward to learning first-hand from Japan’s next generation of disability leaders.</blockquote>
-<p><em>—Provost Winston Langley, UMass Boston</em></p>
-
 The Duskin Disability Leadership Program is an intensive five-month training program for <strong>Japanese people with disabilities</strong>, ages 18 to 35. The program, which takes place in Boston, trains these young people to develop <b>leadership and advocacy skills</b>, which they then bring back to Japan.
 
 One part of the training program is an <b>internship</b> at a local agency or community organization <b>focused on disability</b>. This gives our trainees a chance to apply what they learn about disability studies and leadership. It’s also a chance for your organization to get a committed, talented intern!

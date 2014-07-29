@@ -20,7 +20,8 @@ title: Welcome to the Duskin Disability Leadership Program at UMass Boston!
 
 <hr />
 <h3>Testimonials</h3>
-<p>"The Duskin Disability Leadership Program provides an opportunity to learn from the world’s most respected disability leaders. This new chapter in Boston complements our existing programs, and brings our international advocacy training to the next level."</p>
+<p>"The Duskin Disability Leadership program continues to advance with the times.
+We consider the program in Boston, launched in 2014, to be an advanced phase of our training program and look forward to many fruitful outcomes."</p>
 <p class="indent"><em>-Norimichi Yamamoto, Executive Director / Secretary General, Duskin Ainowa Foundation</em></p>
 
 <p>"We founded this program 30 years ago to support young Japanese leaders with disabilities. I am proud to see the program continue to grow and thrive with this new cohort model in Boston."</p>

@@ -5,7 +5,7 @@ layout: post
 
 This leadership training program is a partnership between the Duskin Ainowa Foundation and the Institute for Community Inclusion (ICI) at UMass Boston.  
 
-The [Duskin Ainowa Foundation](http://www.ainowa.jp/jigyou/haken/) is the sponsoring agency for the program. Headquartered in Osaka, Japan, the foundation has been promoting the full inclusion of persons with disabilities in society since 1981. It funds activities and programs that help build disability leadership capacity in Japan, throughout Asia and the Pacific.
+The [Duskin Ainowa Foundation](http://www.ainowa.jp/jigyou/haken/) is the sponsoring agency for the program. Headquartered in Suita-City in Osaka, Japan, the foundation has been promoting the full inclusion of persons with disabilities in society since 1981. It funds activities and programs that help build disability leadership capacity in Japan, throughout Asia and the Pacific.
 
 The foundation has two signature programs: the Duskin Disability Leadership Abroad Program and the Duskin Disability Leadership Program in Japan.
 
@@ -13,18 +13,23 @@ The Duskin Disability Leadership Abroad Program provides funding for Japanese pe
 
 The program provides individual fellowships. Starting in 2014, the program also began using a new group or cohort model to further participants’ disability leadership and advocacy training. This cohort model takes place in Boston.
 
-The Duskin Disability Leadership Program in Japan provides funding to people with disabilities, ages 18 – 25, from Asia and the Pacific to participate in an intensive five-month disability leadership and advocacy training in Japan. The [Japan Society for the Promotion of Persons with Disabilities](http://www.jsrpd.jp/static/index_e.html) is the implementing organization. For more information, visit the [program website](http://www.normanet.ne.jp/~duskin/english/index.html).
+The Duskin Disability Leadership Program in Japan provides funding to people with disabilities, ages 18 – 29, from Asia and the Pacific to participate in an intensive 10-month disability leadership and advocacy training in Japan. The [Japan Society for the Promotion of Persons with Disabilities](http://www.jsrpd.jp/static/index_e.html) is the implementing organization. For more information, visit the [program website](http://www.normanet.ne.jp/~duskin/english/index.html).
 
 The ICI is the implementing organization for the newest Duskin program: the Duskin Disability Leadership Program in Boston. It is based at the School for Global Inclusion and Social Development at UMass Boston. Since the 1960s, the ICI has been a leader in the disability field. We promote the full inclusion of people with disabilities in every aspect of society, through research, training, and consultation, as well as clinical and employment services. Our projects increase disability inclusion across the United States and internationally.
 
 ###Program Staff
-Heike Boeltzig-Brown, PhD  
+
+**Heike Boeltzig-Brown, PhD**  
 Program Director  
 [heike.boeltzig@umb.edu](mailto:heike.boeltzig@umb.edu )
 
-###Miwa Tanabe
+**Miwa Tanabe**  
 Program Coordinator  
 [miwa.tanabe@umb.edu](mailto:miwa.tanabe@umb.edu)
+
+**Miriam Keyma**  
+Program Assistant  
+[Miriam.Heyman@umb.edu](mailto:Miriam.Heyman@umb.edu)
 
 
 
