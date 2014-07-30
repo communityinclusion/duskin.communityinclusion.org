@@ -27,7 +27,7 @@ Program Director
 Program Coordinator  
 [miwa.tanabe@umb.edu](mailto:miwa.tanabe@umb.edu)
 
-**Miriam Keyma**  
+**Miriam Heyman**  
 Program Assistant  
 [Miriam.Heyman@umb.edu](mailto:Miriam.Heyman@umb.edu)
 
