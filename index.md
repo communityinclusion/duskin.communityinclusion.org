@@ -17,11 +17,6 @@ title: Welcome to the Duskin Disability Leadership Program at UMass Boston!
 
 <p>The Duskin Ainowa Foundation has been in existence for over 30 years, and launched this Boston-based program in 2014. Since its launch, the foundation has provided individual fellowships funding Japanese people with disabilities to go abroad to gain disability leadership and advocacy skills. Starting in 2014, in addition to those individual fellowships, the program also began using a new group or cohort model to further participants’ disability leadership and advocacy training.</p>
 
-<div class="your-class">
-  <div>your content</div>
-  <div>your content</div>
-  <div>your content</div>
-</div>
 <hr />
 <h3>Testimonials</h3>
 <p>"The Duskin Disability Leadership program continues to advance with the times.
