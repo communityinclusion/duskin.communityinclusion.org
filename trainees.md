@@ -2,8 +2,10 @@
 title: Meet Our 2014 Duskin Trainees
 layout: post
 ---
-
+<div class="left">
 <img src="/images/trainees.jpg" alt="Duskin trainees 2014" />
+<p><em>Duskin Trainees, from left to right: <br />Mai Kawabata, Saki Kuramoto, and Kanae Kido</em></p>
+</div>
 
 ##Mai Kawabata
 Mai Kawabata is a student in the master’s of educational sciences program at Tsukuba University, Graduate School of Comprehensive Human Sciences. As a young woman with a physical disability and speech impairment, Mai has worked to raise public awareness about disability in Japan. She has spoken about her experiences at the 2010 Assistive Technology and Augmentative Communication conference in Kyoto and other public forums.  

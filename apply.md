@@ -33,7 +33,7 @@ Sign up here to get notified when the application opens again.
 
 **Applicant screening**. A panel of disability experts (Program Executive Committee) and ICI program staff will review all applications and select those individuals whose applications meet the program objectives. Successful applicants will be invited to participate in an interview at the Duskin Ainowa Foundation in Osaka.
 
-###Candidate interviews.
+**Candidate interviews.**
 
 The interview has four parts:
 
@@ -47,7 +47,7 @@ The interview has four parts:
 
 Candidate travel expenses for attending this interview will be covered by the Duskin Ainowa Foundation.
 
-###Candidate selection.
+**Candidate selection.**
 
 The Program Executive Committee and ICI program staff will make final decisions after interviewing all potential candidates. Duskin Ainowa Foundation staff will notify all interviewees of the results. Successful candidates will be assigned a mentor -- a member of the Program Executive Committee who will assist the trainee with refining his or her training plan in conjunction with ICI program staff.
 
